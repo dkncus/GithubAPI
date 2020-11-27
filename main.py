@@ -12,3 +12,4 @@ for repo in repos:
     total_repos = total_repos + 1
 
 print("Github User Statistics:", username)
+print("Total Repositories:", total_repos)
